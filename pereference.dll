@@ -1,0 +1,24 @@
+{
+    "valid_username": {
+        "stan": "1234test",
+        "stanos": "test1234",
+        "stanos de manos": "stanos",
+        "test": "test",
+        "stanvdveen": "stanvdveen",
+        "mama": "hoi",
+        "1": "2",
+        "exe test": "exe",
+        "hoi": "hallo"
+    },
+    
+    "background_color": "green",
+    "menu_defenition": "iets",
+    "text_1": "type in your username.",
+    "text_2": "",
+    "text_3": "correct username\ntype in your password.",
+    "text_4": "",
+    "button_text_1": "ok",
+    "button_text_2": "cancel",
+    "button_text_3": "ok",
+    "button_text_4": "cancel"
+}
